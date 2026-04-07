@@ -41,7 +41,7 @@ You can run the AI Security Swarm either fully containerized via **Docker** (Rec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hertughenriksen/Security.git
+   git clone https://github.com/Securiteer/SafeCode.git
    cd Security
    ```
 
@@ -62,7 +62,7 @@ You can run the AI Security Swarm either fully containerized via **Docker** (Rec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hertughenriksen/Security.git
+   git clone https://github.com/Securiteer/SafeCode.git
    cd Security
    ```
 
@@ -80,7 +80,7 @@ You can run the AI Security Swarm either fully containerized via **Docker** (Rec
 1. **Clone the repository:**
    Open PowerShell or Git Bash:
    ```powershell
-   git clone https://github.com/hertughenriksen/Security.git
+   git clone https://github.com/Securiteer/SafeCode.git
    cd Security
    ```
 
